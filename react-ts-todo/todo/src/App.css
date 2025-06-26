@@ -17,7 +17,6 @@
 }
 
 .todoList li {
-  width: 10%;
   display: flex;
   align-items: center;
   margin-bottom: 10px;
